@@ -13,7 +13,7 @@ jupyter==1.0.0
 `$ pip install -r requirements.txt`
 
 
-# How to
+# How to run the notebook
 After install all dependencies go to the same folder where you have the 
 files and execute the following command to open then Jupyter Notebook:
 
