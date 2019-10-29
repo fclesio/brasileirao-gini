@@ -9,7 +9,7 @@ matplotlib==3.0.2
 jupyter==1.0.0
 ````
 
-# Install dependencies
+# Installing dependencies
 `$ pip install -r requirements.txt`
 
 
